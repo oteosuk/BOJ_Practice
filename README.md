@@ -38,7 +38,7 @@
 
 ## 🖤 (부록) 유니티 프로젝트
 
-### 1. [패스파인딩](https://github.com/oteosuk/BOJ_Practice/tree/main/Unity_Project)
+### 1. [패스파인딩](https://github.com/oteosuk/Unity_Project)
 
 ### 2. [탄막슈팅게임] : 진행중
 
