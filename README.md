@@ -28,7 +28,7 @@
 
 ##### 🤎BRONZE 5
 
-[10757(큰수 A+B)](https://www.acmicpc.net/problem/10757) / [11283(한글2)](https://www.acmicpc.net/problem/11283) / [13277(큰 수 곱셈)](https://www.acmicpc.net/problem/13277) / [14928(큰 수)](https://www.acmicpc.net/problem/14928) / [15740(A+B - 9)](https://www.acmicpc.net/problem/15740) / [22193(Multiply)](https://www.acmicpc.net/problem/22193) / [24309(PABEHCTBO)](https://www.acmicpc.net/problem/24309)
+[10757(큰수 A+B)](https://www.acmicpc.net/problem/10757) / [11282(한글1)](https://www.acmicpc.net/problem/11282) / [11283(한글2)](https://www.acmicpc.net/problem/11283) / [13277(큰 수 곱셈)](https://www.acmicpc.net/problem/13277) / [14928(큰 수)](https://www.acmicpc.net/problem/14928) / [15740(A+B - 9)](https://www.acmicpc.net/problem/15740) / [22193(Multiply)](https://www.acmicpc.net/problem/22193) / [24309(PABEHCTBO)](https://www.acmicpc.net/problem/24309)
 
 
 ##### 🤎BRONZE 4
