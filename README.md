@@ -1,7 +1,9 @@
 
 ## 🖤 BOJ Practice
-| BOJ Rank | Silver3 | [oteosuk](https://solved.ac/profile/oteosuk) |
-|:------:|:------:|:------:|
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oteosuk)](https://solved.ac/oteosuk)
+
 
 #### 티어 ALL SOLVED
 - [x] Bronze 5
