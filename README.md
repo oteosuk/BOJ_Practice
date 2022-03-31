@@ -34,7 +34,7 @@
 
 
 ##### 🤎BRONZE 4
-[5893(17배)](https://www.acmicpc.net/problem/5893)
+[5893(17배)](https://www.acmicpc.net/problem/5893) / [16428(A/B-3)](https://www.acmicpc.net/problem/16428)
 
 <br/>
 
