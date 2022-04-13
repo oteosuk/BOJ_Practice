@@ -54,7 +54,7 @@
 
 Bronze 4, 5 는 삭제
 
-Bronze 3 
+Bronze 3 추가
 
 #### <22-03-28>
 
