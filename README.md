@@ -7,7 +7,8 @@
 
 #### 티어 ALL SOLVED
 - [x] Bronze 5
-- [ ] Bronze 4
+- [X] Bronze 4
+- [ ] Bronze 3
 
  #### 클래스
 - [x] Class 1 
